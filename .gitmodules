@@ -1,0 +1,3 @@
+[submodule "vue-shop-front"]
+	path = vue-shop-front
+	url = git@github.com:LawssssCat/vue-shop-front.git
